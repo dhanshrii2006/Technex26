@@ -1,0 +1,9 @@
+{
+  "short_name": "Technex 3D",
+  "name": "Technex 2026 - 3D Space Experience",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
